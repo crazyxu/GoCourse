@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="co_swipe_lv_selector">#ffffff</color>
+    <color name="co_swipe_lv_item_back_bg">#B7A5FE</color>
+    <color name="co_swipe_lv_item_cursor">#BEDCE1</color>
+    <color name="co_selector_hlv_focused">#D4D4D4</color>
+    <color name="co_selector_hlv_pressed">#D4D4D4</color>
+    <color name="co_hlv_cur_weeks_red">#FFDD99</color>
+    <color name="co_weeks_cur_blue">#67D1E9</color>
+    <color name="co_actionbar_bg_blue">#B7A5FE</color>
+
+</resources>

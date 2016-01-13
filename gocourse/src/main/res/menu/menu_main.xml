@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.katoa.gocourse.MCourse">
+    <item
+        android:title="添加课程"
+        android:id="@+id/item_add_course"
+        android:icon="@drawable/add_course"
+        app:showAsAction="always"/>
+</menu>
